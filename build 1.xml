@@ -15,7 +15,7 @@
 		<javac srcdir="src" destdir="build/classes" classpathref="classpath" includeantruntime="false" />
 	</target>
 
-//Additional datas
+//Additional dataset
 
 	<target name="jar">
 		<mkdir dir="build/jar" />
