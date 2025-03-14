@@ -4,7 +4,6 @@
 			<include name="*.jar" />
 		</fileset>
 	</path>
-	
 
 
 	<target name="clean">
